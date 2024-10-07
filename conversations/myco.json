@@ -1,0 +1,17 @@
+{
+  "name": "myco",
+  "conversations": [
+    "You: hai",
+    "AI: Hey myco! 👋  What's up? 😊 \n",
+    "You: rumus perasmaan kuadarat",
+    "AI: The quadratic formula is used to find the solutions (also called roots) of a quadratic equation. A quadratic equation is an equation of the form:\n\n**ax² + bx + c = 0**\n\nwhere a, b, and c are constants and a ≠ 0.\n\nHere's the quadratic formula:\n\n**x = (-b ± √(b² - 4ac)) / 2a**\n\n**Let's break it down:**\n\n* **x:** Represents the solutions to the equation. There can be two solutions.\n* **a, b, c:** Coefficients of the quadratic equation.\n* **±:** This indicates that there are two possible solutions, one with a plus sign and one with a minus sign.\n* **√:** Square root symbol.\n* **(b² - 4ac):** This part is called the discriminant. It tells us the nature of the solutions:\n    * If the discriminant is positive, there are two real solutions.\n    * If the discriminant is zero, there is one real solution (a double root).\n    * If the discriminant is negative, there are two complex solutions.\n\n**Example:**\n\nLet's say we have the equation:\n\n**2x² + 5x - 3 = 0**\n\nHere, a = 2, b = 5, and c = -3. \n\nPlugging these values into the quadratic formula:\n\nx = (-5 ± √(5² - 4 * 2 * -3)) / (2 * 2)\nx = (-5 ± √(49)) / 4\nx = (-5 ± 7) / 4\n\nTherefore, the two solutions are:\n\nx₁ = (-5 + 7) / 4 = 1/2\nx₂ = (-5 - 7) / 4 = -3\n\nLet me know if you'd like to try solving an example together, or if you have any other questions! 😊 \n",
+    "You: oke mksh rumus kecepatan apa",
+    "AI: Oke, senang bisa membantu dengan rumus kuadrat! 😊 \n\nSekarang kamu bertanya tentang rumus kecepatan. Ada beberapa rumus kecepatan yang berbeda, tergantung pada konteksnya. \n\nBisakah kamu ceritakan lebih detail tentang apa yang ingin kamu ketahui tentang kecepatan? \n\nMisalnya:\n\n* **Apakah kamu ingin tahu rumus kecepatan dalam fisika?** Seperti kecepatan = jarak / waktu.\n* **Atau apakah kamu ingin tahu rumus kecepatan dalam suatu program komputer?** Seperti kecepatan = (jumlah data yang ditransfer) / (waktu yang dibutuhkan). \n\nBeri tahu saya lebih banyak tentang apa yang kamu cari, dan saya akan berusaha memberikan rumus yang tepat! \n",
+    "You: kecepatan suartu benda terhadapjarak ketahui waktunya ",
+    "AI: Oke, jadi kamu ingin tahu rumus kecepatan suatu benda jika jarak dan waktunya diketahui. \n\nRumus yang tepat untuk itu adalah:\n\n**Kecepatan = Jarak / Waktu**\n\n**Contoh:**\n\nJika suatu benda menempuh jarak 100 meter dalam waktu 10 detik, maka kecepatannya adalah:\n\nKecepatan = 100 meter / 10 detik = 10 meter/detik\n\n**Penting untuk diingat:**\n\n* Satuan kecepatan tergantung pada satuan jarak dan waktu yang digunakan. Dalam contoh di atas, kecepatannya dalam meter/detik.\n* Jika satuan jarak dan waktu berbeda, kamu perlu mengkonversikannya ke satuan yang sama sebelum menghitung kecepatan.\n\nSemoga ini membantu! 😊  Apakah kamu ingin mencoba contoh lain atau punya pertanyaan lainnya? \n",
+    "You: tad ku nanya apa",
+    "AI: Kamu bertanya tentang rumus kecepatan suatu benda terhadap jarak yang diketahui, dan waktunya.  😊 \n",
+    "You: kmu ingat percaklapan kita?",
+    "AI: Ya, saya ingat percakapan kita! 😊  \n\nKita baru saja membahas rumus kecepatan dan bagaimana menghitungnya jika jarak dan waktu diketahui. \n\nApakah kamu punya pertanyaan lain tentang kecepatan, atau topik lain yang ingin kamu bahas? \n"
+  ]
+}
