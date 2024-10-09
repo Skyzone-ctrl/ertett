@@ -15,7 +15,7 @@ if (!fs.existsSync(CONVERSATIONS_DIR)) {
 }
 
 // Initialize Google Generative AI
-const genAI = new GoogleGenerativeAI('AIzaSyBRAoxsU60y5kvIZwSrW4lFcsxeBsMKZug');
+const genAI = new GoogleGenerativeAI('');
 const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
 
 app.use(bodyParser.urlencoded({ extended: true }));
